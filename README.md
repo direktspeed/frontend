@@ -1,4 +1,4 @@
-![DoneJS logo](https://donejs.com/static/img/donejs-logo-black.svg)
+![DoneJS logo](https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_fill,f_auto,h_413,w_620/v1481151468/rzy7rrpqgseb15zqelak.jpg)
 
 [![npm version](https://badge.fury.io/js/donejs.svg)](https://badge.fury.io/js/donejs)
 [![Build Status](https://travis-ci.org/donejs/donejs.svg?branch=master)](https://travis-ci.org/donejs/donejs)
