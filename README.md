@@ -1,14 +1,14 @@
-![DoneJS logo](https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_fill,f_auto,h_413,w_620/v1481151468/rzy7rrpqgseb15zqelak.jpg)
+![DIREKTSPEED logo](https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_fill,f_auto,h_413,w_620/v1481151468/rzy7rrpqgseb15zqelak.jpg)
 
 [![npm version](https://badge.fury.io/js/donejs.svg)](https://badge.fury.io/js/donejs)
 [![Build Status](https://travis-ci.org/donejs/donejs.svg?branch=master)](https://travis-ci.org/donejs/donejs)
 [![Build Status](https://ci.appveyor.com/api/projects/status/github/donejs/donejs?branch=master&svg=true)](https://ci.appveyor.com/project/daffl/donejs)
 [![Coverage Status](https://coveralls.io/repos/github/donejs/donejs/badge.svg?branch=cli-refactor)](https://coveralls.io/github/donejs/donejs?branch=master)
 
-DIREKTSPEED Suite offers a stable way to get applications of any size and type done.
+DIREKTSPEED Suite aka dsSuite offers a stable way to get applications of any size and type done.
 It includes all features a high performance, real time, web and mobile or server application
 needs! It provides a comprehensive combination of technologies for building complex JavaScript 
-and also mixed code applications.
+and also mixed code applications. It aims to be a Compiting 
 
 If you are looking for the fastest way to get a fully modern development environment setup
 and produce a lightning fast application, you've come to the right place.
